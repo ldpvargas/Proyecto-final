@@ -1,5 +1,9 @@
 # Proyecto-final
 Proyecto final. Comunidad
+
+Luis Diego Parra Vargas
+Eduardo Amador Mathieu
+
 ## Diagrama (ASCII)
 
 ```text
